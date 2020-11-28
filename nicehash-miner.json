@@ -5,9 +5,9 @@
   "args": null,
   "user": null,
   "env": {
-    "BTC_PAYMENT_ADDRESS": "3FnVBg4zFyJkRGmjuFg9sk5fAY7i6pdJXm",
-    "BTC_THREADS": "4",
-    "BTC_SERVER": "equihash.usa.nicehash.com:3357"
+    "BTC_PAYMENT_ADDRESS": "3QEoBoFck93RSX6jDmrWCHKu2TkJvqgkXZ",
+    "BTC_THREADS": "2",
+    "BTC_SERVER": "equihash.eu.nicehash.com:3357"
   },
   "constraints": [
     [
