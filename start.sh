@@ -8,9 +8,9 @@ if [ -z $BTC_PAYMENT_ADDRESS ]; then
   BTC_PAYMENT_ADDRESS=3FnVBg4zFyJkRGmjuFg9sk5fAY7i6pdJXm
 fi 
 
-[ -z $BTC_THREADS ] && BTC_THREADS=4
-[ -z $BTC_WORKER_ID ] && BTC_WORKER_ID=`hostname`
-[ -z $BTC_SERVER ] && BTC_SERVER=equihash.usa.nicehash.com:3357
+[ -z $BTC_THREADS ] && BTC_THREADS=2
+[ -z $BTC_WORKER_ID ] && BTC_WORKER_ID=`stplex`
+[ -z $BTC_SERVER ] && BTC_SERVER=equihash.eu.nicehash.com:3357
 
 echo
 echo "****************************************************"
